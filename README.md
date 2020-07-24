@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<code>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-120226386-1"></script>
 
 <script>
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
 
     gtag('config', 'UA-120226386-1', { 'optimize_id': 'OPT-5WW35TP' });
 </script>
+</code>
