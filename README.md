@@ -2,8 +2,8 @@
 ### Hi there 👋
 I appreciate you for visiting my Github page. I hope my codes can help your needs. You can find sample repositories written by me about my interested [below topics][1], or you can find a repository written by another, that I put a star.
 
-<code><a href="https://github.com/salihKARAHAN" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=salihkarahan&show_icons=true&line_height=40"></a></code>
-<code><a href="https://github.com/salihKARAHAN" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkarahan&top=3"></a></code>
+<code><img src="https://github-readme-stats.vercel.app/api?username=salihkarahan&show_icons=true&line_height=40"></code>
+<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkarahan&top=3"></code>
 
 ### [Interested Topics][1]
 [1]: ###interested-topics
